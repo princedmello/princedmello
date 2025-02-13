@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Prince Alex Dmello
+# Hi there! 👋 I'm Prince
 
 I'm a graduate student at the University of Texas at Arlington, pursuing a Master of Science in Information Systems. I specialize in full-stack development, cloud computing, and DevOps, with a passion for building scalable and efficient software solutions.
 
