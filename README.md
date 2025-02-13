@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Prince Alex Dmello
 
-<!--
-**princedmello/princedmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student at the University of Texas at Arlington, pursuing a Master of Science in Information Systems. I specialize in full-stack development, cloud computing, and DevOps, with a passion for building scalable and efficient software solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently exploring advanced cloud architectures and DevOps automation.
+- 🔭 Working on full-stack applications with modern frameworks.
+- 💡 Passionate about problem-solving, system design, and technology-driven solutions.
+- 🚀 Experienced in building scalable web applications and cloud-based platforms.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princealexdmello" alt="princealexdmello" /> </p>
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/) 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:princedmello13@gmail.com)
+
+## Skills
+
+- **Programming Languages:** Java, Python, SQL, JavaScript, PHP  
+- **Frameworks & Tools:** Spring Boot, React, Next.js, Redux, Tailwind, Bootstrap  
+- **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Jenkins, CI/CD  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Elasticsearch  
+- **Data & Visualization:** Tableau, Power BI, Langchain  
+
+## GitHub Stats
+
+![Prince Alex Dmello's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princealexdmello&show_icons=true&theme=radical)
