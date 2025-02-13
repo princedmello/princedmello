@@ -13,7 +13,7 @@ I'm a graduate student at the University of Texas at Arlington, pursuing a Maste
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/princedmello) 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:princedmello13@gmail.com)
 
 ## Skills
@@ -26,4 +26,7 @@ I'm a graduate student at the University of Texas at Arlington, pursuing a Maste
 
 ## GitHub Stats
 
-![Prince Alex Dmello's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princealexdmello&show_icons=true&theme=radical)
+![Prince Alex Dmello's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princedmello&show_icons=true&theme=radical)
+
+
+![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake-dark.svg)
